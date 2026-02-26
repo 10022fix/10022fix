@@ -89,6 +89,14 @@
     title="Windows"
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="windosws" 
+    title="Windows"
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" 
 />
 <img 
