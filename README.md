@@ -1,6 +1,6 @@
 🖥️ Leonardo Ribeiro
 
-**`desenvolvedor fullstack`** **`web designer`**
+**`desenvolvedor fullstack`** **`web designer`** **`Dev`**
 
  [Fundação Instituto Técnologico De Osasco(FITO)](https://fito.edu.br/) 
   
